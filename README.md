@@ -1,7 +1,7 @@
 <H3>MEETHA PRABHU</H3>
 <H3>212222240065</H3>
-<H3>20.03.2024</H3>
 <H3>EX.No 2 </H3>
+<H3>Date: </H3>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
